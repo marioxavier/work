@@ -1,0 +1,13 @@
+#bodyContainer {
+    border: 1px solid black;
+    margin: auto;
+}
+
+h1 {
+    background-color: darkred;
+}
+
+#formContainer {
+    
+    background-color: darkblue;
+}
